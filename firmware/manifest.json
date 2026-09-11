@@ -1,12 +1,12 @@
 {
   "name": "NEXYS.multisenzor",
-  "version": "0.0.8", 
+  "version": "0.8.0", 
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "https://github.com/nexys-cz/nexys-multisenzor/releases/download/0.0.8/nexys-multisenzor.bin",
-        "release_url": "https://github.com/nexys-cz/nexys-multisenzor/releases/tag/0.0.8",
+        "path": "https://github.com/nexys-cz/nexys-multisenzor/releases/download/0.8.0/nexys-multisenzor.bin",
+        "release_url": "https://github.com/nexys-cz/nexys-multisenzor/releases/tag/0.8.0",
         "summary": "Vyvíjeno s láskou 💙... Váš tým NE✖YS !!!",
         "md5": "79212652027200c07ea5293ada294ca0"
       }
